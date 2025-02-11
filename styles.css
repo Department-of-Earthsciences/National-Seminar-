@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: white;
+}
+
+header {
+    padding: 50px;
+    background: linear-gradient(135deg, #764ba2, #667eea);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+nav {
+    background: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    font-size: 18px;
+}
+
+section {
+    padding: 40px;
+    margin: 20px auto;
+    width: 80%;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+footer {
+    background: #222;
+    padding: 10px;
+    margin-top: 20px;
+}
